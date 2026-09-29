@@ -9,7 +9,7 @@ export type Destino = {
 export const destinos: Destino[] = [
 	{
 		id: 1,
-		nome: "Lençóis Maranhenses",
+		nome: "Colinas Maranhenses",
 		regiao: "Maranhão",
 		imagem:
 			"https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1100&q=85",
@@ -45,7 +45,7 @@ export const destinos: Destino[] = [
 	},
 	{
 		id: 5,
-		nome: "Bonito",
+		nome: "Mar do Grosso do Sul",
 		regiao: "Mato Grosso do Sul",
 		imagem:
 			"https://images.unsplash.com/photo-1518837695005-2083093ee35b?auto=format&fit=crop&w=1100&q=85",
